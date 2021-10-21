@@ -1,6 +1,6 @@
 # cine-moonlite
 
-A moonlite focuser clone for use with telephoto cine lenses. Based on 28BYJ-48 stepper and arduino
+A moonlite focuser clone for use with telephoto cine lenses. Based on 28BYJ-48 stepper and arduino. This is used to focus a telephoto lens used for astronomical imaging. The focuser is compatible with INDI and ASCOM based systems.
 
 <img src="/resources/onlens.png" alt="parts" width="600"/>
 
